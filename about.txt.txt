@@ -17,4 +17,3 @@ Skills:
 -HTML
 -CSS
 -Basic programming
--Time management
